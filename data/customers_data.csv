@@ -1,0 +1,1001 @@
+name,age,gender,registration_date,segment
+Eduardo Nogueira,65,M,2025-03-27,
+Olivia Costa,25,F,2024-10-05,
+Ana Carolina Cardoso,56,O,2025-04-06,Basic
+Maria Vitória Barros,50,F,2025-02-15,
+Alice da Rocha,33,O,2024-11-04,Vip
+Raquel da Rocha,51,O,2024-12-07,
+Dr. Davi Costela,26,O,2025-01-07,Medium
+Kaique Silveira,46,F,2025-03-16,
+Pietro Correia,74,M,2024-12-04,Medium
+Lucas Gabriel Almeida,27,F,2024-08-17,Medium
+Sra. Isabel Almeida,41,M,2025-05-15,Medium
+Maria Eduarda Melo,60,M,2025-04-04,Vip
+João Gabriel Silva,48,M,2024-07-18,Basic
+Sr. Kaique Souza,51,F,2024-10-11,
+Ana Beatriz Alves,75,O,2024-11-02,Medium
+Isis Cunha,29,F,2025-01-17,
+Emanuel Novaes,55,F,2024-12-31,
+Pedro Miguel Correia,60,O,2024-09-09,Medium
+Dra. Isis Pires,60,F,2024-11-20,Vip
+Eduardo Lima,25,M,2025-01-11,Medium
+Luiz Fernando Lima,72,O,2024-11-12,Basic
+Larissa Sales,31,O,2025-04-04,
+Lucas Farias,46,F,2024-06-12,Vip
+Luna Peixoto,65,M,2024-12-26,Medium
+Maysa Lopes,27,O,2024-09-14,
+Pietro Viana,57,O,2024-11-26,
+Dr. Erick Cardoso,72,O,2025-02-22,
+Sophia Cavalcanti,65,O,2024-07-20,Medium
+Emilly Pereira,20,M,2025-05-06,Basic
+Maysa da Costa,19,F,2025-03-09,
+Heloísa Aragão,20,M,2024-11-22,Medium
+Maria Julia Fogaça,40,F,2025-05-27,
+Emanuelly Pereira,22,F,2024-06-18,
+Theo Rocha,34,M,2024-09-05,Vip
+Dra. Maria Vitória Carvalho,75,F,2024-06-28,Vip
+Sr. Joaquim Sales,66,M,2025-03-04,
+Pedro Sales,74,F,2024-06-18,Vip
+Dr. Alexandre Farias,33,O,2025-01-21,Vip
+Guilherme Barros,56,O,2024-09-13,
+Ian Viana,52,F,2024-07-07,Vip
+Dra. Giovanna Moura,22,O,2024-11-19,Basic
+Enzo Gabriel Fogaça,22,O,2025-05-09,
+Enzo Costela,67,M,2025-03-07,Vip
+Sr. Luiz Fernando da Cunha,24,F,2025-05-16,
+Igor Alves,52,F,2025-05-12,
+Sra. Carolina Rezende,19,M,2024-10-17,Vip
+João Vitor Cavalcanti,73,F,2024-07-28,Vip
+João Pedro Vieira,70,O,2025-01-27,Medium
+Maria Alice Dias,72,O,2025-04-17,Basic
+Theo Ferreira,29,M,2024-08-28,
+Henrique Correia,34,O,2024-07-23,
+Lorenzo Gonçalves,38,M,2024-11-14,Medium
+Rebeca da Rocha,39,O,2024-07-18,Basic
+Sr. Theo Santos,62,M,2024-09-07,
+Sr. Luiz Otávio Costa,28,O,2024-08-28,
+Stella Souza,44,O,2024-12-31,Medium
+Maria Vitória Lima,32,F,2024-07-23,
+Alícia da Cruz,24,F,2025-05-03,Medium
+Dra. Luiza Sales,37,F,2024-10-18,Vip
+Gabriela Azevedo,26,O,2024-07-22,
+André Sales,25,M,2025-01-14,
+Maria Clara Rodrigues,70,F,2025-05-04,
+Matheus Lima,21,O,2025-02-22,Vip
+Lorena Barros,52,O,2024-11-16,Medium
+Benício Ramos,65,M,2024-07-08,
+Sra. Melissa Ferreira,41,O,2024-08-22,Vip
+Sophie Freitas,26,O,2024-08-19,Vip
+Luiz Otávio Rocha,19,O,2024-09-21,Vip
+Alexandre Nascimento,67,O,2024-09-07,
+Sra. Maria Fernanda Rocha,43,F,2025-01-17,Medium
+Luiz Otávio Souza,64,O,2024-12-18,Vip
+Antônio da Paz,47,F,2024-12-04,Basic
+Sra. Rebeca Ribeiro,55,F,2025-04-09,
+Nicolas Duarte,51,M,2024-09-06,Vip
+Luiz Gustavo da Conceição,23,F,2024-11-03,Vip
+Marcelo Souza,36,F,2024-09-19,Basic
+Luiza Costela,70,M,2025-04-03,Vip
+Beatriz Viana,27,M,2024-11-20,Basic
+Mariane das Neves,59,F,2025-03-13,
+Vitor Hugo Cardoso,59,F,2024-06-10,
+Srta. Isabella Fogaça,37,M,2025-01-06,Vip
+Noah Alves,25,F,2024-10-23,Vip
+Dra. Vitória da Luz,59,M,2025-01-20,Medium
+Mariana Vieira,56,O,2025-05-18,Vip
+Sr. Gustavo Henrique Almeida,25,O,2024-10-31,Vip
+Carolina Nunes,53,O,2025-03-23,Basic
+Maria Luiza Campos,56,F,2024-11-15,Basic
+Sophie Caldeira,64,O,2025-04-10,
+Marcelo Correia,44,M,2024-07-12,
+Juan Rezende,20,O,2024-09-08,Vip
+Calebe Barbosa,34,F,2025-06-04,
+Srta. Lorena Teixeira,75,O,2024-11-26,Vip
+Lorena Nascimento,42,O,2025-03-12,Basic
+Vicente Nascimento,67,M,2025-01-27,Medium
+Guilherme da Rosa,54,F,2025-01-03,Basic
+Gabrielly Lima,42,O,2025-04-06,Medium
+Gabriela Martins,66,F,2024-12-25,
+Bárbara Rezende,49,F,2025-02-21,Medium
+Gabriel Costa,51,F,2024-10-10,Basic
+Dra. Eduarda Melo,19,O,2025-05-21,Vip
+Gabriel Rodrigues,56,O,2025-06-09,Vip
+Emilly Freitas,56,M,2024-07-19,Medium
+Dra. Giovanna da Cruz,68,F,2024-06-20,Vip
+Luiz Felipe Dias,48,O,2024-10-12,
+Maysa Costa,55,M,2024-11-11,
+Breno Freitas,33,O,2025-05-18,Medium
+Milena Mendes,62,O,2024-11-22,Basic
+Maria Fernanda Silva,27,F,2024-11-27,
+Kaique Melo,28,O,2024-06-11,Vip
+Kamilly Pires,32,M,2025-05-16,Vip
+Luna Correia,33,F,2024-08-12,
+Cauê Moraes,64,M,2024-10-19,Medium
+Dra. Luana Gomes,34,M,2025-05-02,
+Ana Clara Jesus,72,O,2024-10-06,
+Pedro Lucas da Rosa,59,O,2024-12-23,Vip
+Dra. Fernanda Dias,71,O,2024-08-26,Medium
+Pedro Lucas Novaes,75,M,2024-12-28,Medium
+João Vitor Pereira,68,M,2025-04-05,Medium
+Alexandre Farias,32,M,2025-04-01,Medium
+Sr. Danilo Azevedo,73,F,2024-09-19,Vip
+Juan Costa,42,M,2025-02-21,
+Danilo da Conceição,35,O,2024-08-06,
+Rodrigo Cavalcanti,25,M,2025-03-16,Medium
+Luiz Otávio da Cunha,21,F,2024-11-18,Vip
+Esther Oliveira,55,M,2024-12-24,
+Nicolas Ramos,75,O,2025-03-02,
+Thales Rodrigues,26,O,2025-01-16,
+Carlos Eduardo Silveira,42,O,2025-01-09,Basic
+Benício Moreira,62,O,2024-12-02,Medium
+Amanda Cardoso,40,O,2025-04-25,
+Alana da Luz,25,O,2025-06-05,Medium
+Nina Ribeiro,44,O,2025-04-03,Vip
+Dr. Francisco Vieira,69,M,2025-02-12,
+Ryan Ribeiro,62,F,2024-06-27,Vip
+Emilly Correia,52,F,2024-11-10,
+Matheus Melo,45,M,2024-10-02,
+Srta. Luana Castro,61,O,2025-03-29,Medium
+Maria Eduarda da Cruz,19,M,2025-02-03,Medium
+Dr. João Gabriel Costela,53,O,2024-11-01,Medium
+Leandro Duarte,63,M,2024-08-24,Vip
+Laura Rezende,20,M,2024-09-20,
+Luiz Henrique Costela,18,O,2025-05-28,Medium
+Juan Nogueira,51,M,2025-04-02,Basic
+Dra. Ana Julia Cardoso,33,F,2025-01-10,
+Ana Carolina Silva,75,O,2024-07-04,Vip
+Stella Souza,29,F,2024-12-30,Medium
+Marina Monteiro,25,M,2024-07-31,
+Bianca da Cunha,23,O,2024-09-29,Vip
+Raquel Cunha,51,M,2024-12-11,
+Caio Araújo,72,O,2025-03-12,Vip
+Felipe Duarte,60,M,2025-04-28,Basic
+Fernando Nunes,49,F,2024-12-25,
+Gabriel Sales,49,M,2024-12-08,Medium
+Benício Jesus,40,O,2024-10-29,Medium
+Bruna Moura,44,O,2025-03-19,Vip
+Amanda Araújo,25,M,2024-10-03,
+Luigi Melo,71,F,2024-07-20,Vip
+Stephany Fernandes,61,F,2024-06-28,Medium
+João Miguel Nunes,51,F,2024-12-22,Basic
+Vicente Nogueira,26,M,2024-11-26,
+Isabelly Mendes,54,O,2025-03-16,Basic
+Kevin da Paz,56,F,2025-01-03,
+Isabella Ribeiro,42,F,2025-01-02,Basic
+Giovanna Dias,71,O,2024-09-11,
+Luna Sales,55,M,2025-01-19,Basic
+Manuela Castro,31,F,2025-01-02,Vip
+Luiz Otávio Duarte,58,M,2024-06-22,Basic
+Lucas Peixoto,48,O,2024-06-20,
+Lucas Cavalcanti,38,F,2024-09-18,
+Fernando Martins,53,O,2024-08-14,Basic
+Lavínia Silva,56,M,2024-09-16,Medium
+João Vitor Jesus,47,M,2025-01-10,
+Srta. Beatriz Nascimento,57,M,2024-10-12,Medium
+Luigi Silva,39,M,2025-01-30,Vip
+Lucas Gabriel Moreira,37,M,2025-04-05,
+Cauã Ramos,63,M,2025-03-01,Vip
+Laís Silveira,35,F,2024-12-21,
+Milena Rocha,48,O,2024-07-12,
+Pedro Miguel Silveira,56,F,2025-03-02,Medium
+Yuri Almeida,40,O,2024-07-09,Medium
+Ana Clara Rocha,50,O,2024-12-26,Medium
+Maria Sophia Dias,45,M,2025-03-14,
+Luiz Felipe Azevedo,19,F,2024-11-09,Basic
+Enrico da Paz,41,F,2025-05-28,
+Mariana Silveira,41,O,2024-12-18,
+Isaac da Mota,71,O,2024-09-05,Medium
+Dr. Cauê Barros,18,F,2025-05-30,
+Daniela Nunes,59,M,2024-09-25,Basic
+Ana Lívia Mendes,75,F,2024-08-07,Vip
+Eduardo Oliveira,29,F,2024-09-04,
+Luana Costela,73,O,2024-09-05,Basic
+Dr. Alexandre Mendes,21,F,2025-04-16,Basic
+Vitor Hugo Mendes,23,O,2025-04-21,
+Lucca Melo,70,O,2025-06-02,
+Davi Luiz Souza,40,O,2025-02-08,
+João Guilherme Mendes,42,F,2025-01-04,Basic
+Joana Cardoso,71,O,2024-12-29,
+Luiz Gustavo Pires,56,M,2024-08-12,
+Sr. Thomas Castro,33,O,2024-07-03,Basic
+Noah Moraes,43,O,2025-05-13,Basic
+Enzo Gomes,39,O,2024-09-15,
+Luiz Fernando Santos,53,M,2024-12-04,
+Joaquim Cunha,67,M,2024-06-22,Medium
+Dr. Bernardo Cunha,58,O,2025-05-27,
+Kaique da Costa,21,F,2024-09-20,Medium
+Francisco Cunha,22,O,2024-09-09,Vip
+Alícia Cardoso,50,O,2025-06-08,Vip
+Vicente Pereira,65,F,2024-09-28,Vip
+Bárbara Lopes,47,F,2025-02-08,Medium
+Camila Cunha,61,F,2025-05-12,Medium
+Luiza Costa,44,M,2024-10-26,
+Maria Julia da Mata,32,O,2025-05-15,
+Julia Barros,58,F,2025-05-31,Vip
+Sr. Vicente Gonçalves,58,M,2024-10-04,Basic
+Enzo Fernandes,64,F,2024-07-04,
+Maria Eduarda Vieira,59,M,2025-05-16,Vip
+Samuel Oliveira,63,M,2024-11-25,Medium
+Ana Silva,60,F,2024-12-09,Vip
+Julia Silva,19,F,2025-06-08,
+João da Cunha,60,O,2025-05-21,Medium
+Vitor Correia,74,O,2024-11-23,Vip
+Cauã da Conceição,25,F,2025-01-21,Vip
+Dr. Enrico da Rocha,52,F,2024-11-03,Basic
+Luiza Cardoso,61,F,2024-08-31,Vip
+Murilo Pereira,29,F,2024-07-20,Vip
+Lorena Pires,73,O,2025-01-07,
+Lucas Gabriel Sales,67,M,2025-03-12,Vip
+Vicente Farias,67,M,2025-03-16,Basic
+Joaquim da Rocha,23,F,2024-06-24,Basic
+Levi Correia,37,F,2024-12-27,
+Luiz Gustavo Lima,32,F,2025-04-06,Medium
+Lavínia Costa,54,M,2024-10-09,Basic
+Dr. Anthony Porto,19,F,2025-02-19,Medium
+Dr. Gabriel Ramos,24,M,2025-03-07,Medium
+Dra. Maria Cecília Cavalcanti,70,F,2025-02-09,Vip
+Isabel Pires,36,O,2024-12-18,Basic
+Yasmin Oliveira,70,F,2025-04-25,
+Joana Costa,69,F,2024-06-19,Vip
+Letícia Souza,19,O,2024-08-23,Vip
+Vitor da Rosa,38,F,2025-01-23,Vip
+Marina Campos,28,F,2025-01-31,Vip
+Lucca Cavalcanti,73,M,2024-09-28,Basic
+Cauê Nunes,19,O,2024-06-11,Medium
+Rafaela Melo,37,F,2025-03-01,
+Enrico Souza,75,M,2024-09-30,Medium
+Dr. Vitor Gabriel Lopes,71,M,2024-07-08,
+Maysa Viana,55,M,2025-04-15,
+Lucca Ramos,51,M,2025-03-09,
+Ana Lívia Teixeira,39,O,2024-12-08,Basic
+Maria Julia Caldeira,51,M,2025-01-04,
+Maria Eduarda Monteiro,67,O,2024-09-09,Medium
+Eloah Silveira,47,M,2024-09-07,Basic
+Vitor Hugo Caldeira,71,O,2025-04-29,Vip
+João Gabriel Rodrigues,60,O,2025-01-08,Basic
+Luiz Gustavo Araújo,70,M,2024-06-21,
+Srta. Lara Lopes,51,F,2024-10-27,
+Leandro Castro,26,F,2025-02-22,
+Juan Mendes,70,O,2024-06-10,Basic
+Larissa Monteiro,38,F,2025-04-13,Vip
+Levi Viana,39,M,2024-06-10,
+Laís da Paz,47,F,2025-01-26,Vip
+Benjamin Gomes,27,O,2025-05-29,
+Evelyn Dias,31,O,2024-06-30,Medium
+Pedro Martins,19,O,2024-10-08,Medium
+Calebe Gonçalves,74,O,2025-01-02,Vip
+Sra. Ana Julia Pinto,31,F,2024-12-02,Vip
+Yasmin Gonçalves,64,M,2025-01-12,
+Marcelo Teixeira,51,F,2024-09-09,
+Luiz Felipe da Paz,75,M,2025-04-27,Medium
+Emanuelly Martins,22,M,2024-11-02,Medium
+Cauê Alves,61,M,2024-09-12,
+Bruno Mendes,61,O,2024-06-13,Vip
+Lorena Pereira,54,F,2024-11-06,Vip
+Kamilly Ferreira,53,O,2024-08-14,Vip
+Maria Clara Nunes,71,M,2024-07-08,
+Lavínia da Costa,24,F,2025-04-12,Vip
+Sofia Sales,55,M,2024-09-01,Vip
+Esther Fogaça,35,F,2025-03-31,Basic
+Sr. Arthur Gomes,42,O,2025-01-07,
+Ana Sophia Mendes,42,M,2024-10-25,Basic
+Dr. Benício Freitas,60,M,2025-02-15,Basic
+Arthur Gonçalves,25,M,2024-09-07,Medium
+Amanda Melo,63,M,2024-10-26,Vip
+Alana Campos,58,F,2025-01-15,Basic
+Sarah Ferreira,41,F,2025-05-04,
+Cauê Viana,68,O,2024-12-27,Vip
+Vicente Rocha,71,M,2024-07-04,Basic
+Dra. Luiza Souza,42,F,2025-01-20,Basic
+Luiz Gustavo Mendes,60,F,2025-03-26,Vip
+Srta. Isabelly Costela,60,O,2024-08-02,
+Julia Barbosa,67,O,2024-12-06,Basic
+Pedro da Mata,25,F,2025-06-09,Vip
+Sr. Luigi Rocha,73,M,2024-08-14,Medium
+Larissa Pires,49,F,2024-06-29,Medium
+Luiza Caldeira,44,O,2024-11-16,Basic
+Luiz Gustavo Cunha,75,O,2024-06-09,
+Mirella Souza,59,O,2024-12-10,Vip
+Alexandre Campos,58,M,2024-11-23,Medium
+Sr. Luiz Felipe Ferreira,19,M,2024-08-06,
+Enzo Gabriel Gomes,67,F,2025-01-31,Vip
+Ana Sophia Cardoso,75,M,2024-09-18,
+Srta. Maria Luiza da Rocha,21,F,2024-10-03,Vip
+Pietra Rodrigues,66,O,2024-07-10,Basic
+Maria Cecília Santos,51,M,2024-08-05,Basic
+Sr. Anthony Mendes,73,M,2024-09-01,
+Bruno da Mata,32,F,2025-04-21,Basic
+João Lucas Alves,24,O,2024-10-26,
+Luiz Gustavo Moura,53,F,2024-10-15,Basic
+Maria Julia Silva,30,O,2025-03-26,Vip
+Caio Costa,54,O,2024-11-14,
+Pedro Lucas Carvalho,37,M,2024-08-07,Basic
+Maria Vitória Farias,32,M,2025-01-10,Vip
+Dra. Caroline Vieira,50,M,2024-08-28,Basic
+João Miguel Oliveira,50,M,2025-04-23,Vip
+Emanuella Rocha,29,M,2025-03-16,Vip
+Vitor Alves,69,F,2024-12-10,Medium
+Ana Beatriz Jesus,28,O,2024-10-29,
+Calebe Correia,41,F,2025-02-20,
+Sra. Clarice Ribeiro,54,M,2025-01-19,Basic
+Brenda Martins,26,O,2024-08-06,Basic
+Valentina Alves,62,M,2025-04-21,
+Leonardo Silveira,71,F,2024-09-07,Basic
+Vitor Gabriel Silveira,56,M,2024-07-15,Medium
+Sabrina Rezende,23,O,2025-05-27,Medium
+Vitor Hugo Nascimento,47,M,2024-11-10,Basic
+Elisa da Cunha,28,F,2024-11-09,Basic
+Dr. Lucca Pereira,60,O,2024-08-22,Basic
+Maria Clara Cardoso,46,M,2024-12-31,
+Isabel Barros,46,O,2024-08-07,Medium
+Gustavo Henrique Monteiro,54,F,2024-06-16,Basic
+Ana Luiza Peixoto,37,F,2024-08-22,Vip
+Olivia Moura,47,F,2025-04-29,Basic
+Ryan Aragão,74,F,2024-09-25,Vip
+Arthur da Rosa,35,F,2025-02-28,
+Maria Luiza Melo,48,M,2024-11-08,Medium
+João Guilherme Sales,42,O,2024-10-04,
+Larissa Aragão,65,O,2024-11-08,
+Luiz Henrique Lima,75,M,2024-12-19,Vip
+Theo Gonçalves,18,F,2024-11-27,Vip
+Maria Clara Vieira,63,O,2025-02-03,
+Luiz Gustavo Moraes,35,M,2024-11-05,Medium
+Ana Vitória Castro,53,F,2025-05-03,Medium
+Breno Moraes,73,M,2024-06-24,Vip
+Dr. Carlos Eduardo da Mota,44,F,2025-01-16,Medium
+Manuela Nascimento,32,F,2025-02-14,Vip
+Júlia Nunes,57,O,2025-02-24,Basic
+Maria Clara Gonçalves,23,F,2024-11-25,
+Ana Sophia Ferreira,33,O,2024-09-11,Basic
+Olivia Cardoso,72,M,2024-07-28,
+Renan Rocha,45,M,2024-12-03,
+Mariana Rocha,55,O,2024-06-16,Vip
+Sra. Luiza Barros,54,F,2024-11-15,Medium
+Ana Julia Pires,66,M,2024-09-15,
+Bianca Rezende,42,F,2025-04-14,Basic
+Milena Viana,18,O,2024-10-22,Vip
+Rafaela Campos,54,O,2024-11-28,Vip
+Emilly da Mota,54,F,2025-05-22,Vip
+Raul Barros,39,F,2024-08-06,Basic
+Heitor Carvalho,27,O,2025-02-23,Medium
+Pedro Farias,59,F,2024-09-26,Medium
+Augusto das Neves,25,F,2025-04-26,Medium
+Mirella Rocha,24,F,2024-09-12,Medium
+Davi Luiz Costela,20,M,2025-03-31,
+Luana Martins,54,F,2025-01-14,Vip
+Dra. Sophia Ramos,31,M,2025-01-11,Medium
+Augusto Cardoso,47,O,2025-02-10,Vip
+Evelyn Monteiro,28,M,2024-12-02,
+Brenda Costa,65,M,2024-09-09,
+Sr. Lucas Martins,55,O,2024-07-17,Vip
+Bernardo da Luz,27,O,2024-12-12,
+Emanuella Martins,49,M,2024-08-15,Basic
+Paulo da Rosa,22,F,2025-02-21,
+Bruno Ramos,46,F,2024-07-06,Vip
+Daniel Aragão,57,F,2024-07-26,Medium
+Elisa Freitas,47,F,2024-06-29,Medium
+Alice Nunes,20,F,2024-10-16,
+Luiz Miguel Farias,33,M,2024-12-19,Medium
+Sabrina Mendes,70,M,2024-06-09,Basic
+Carlos Eduardo Melo,44,M,2025-02-06,
+Davi Lucca Sales,55,O,2024-12-11,
+Vitor Gabriel Martins,31,F,2024-08-30,Medium
+Mariana Nascimento,40,F,2024-10-14,Vip
+Gabriel Sales,29,O,2025-03-07,Basic
+Luiz Fernando Lima,67,M,2025-04-19,
+Isabel da Conceição,31,M,2024-09-03,
+Srta. Lara Lima,70,O,2024-11-15,Vip
+Helena Almeida,39,F,2025-02-26,
+Yuri Oliveira,68,O,2025-05-02,Medium
+Vicente da Mota,57,F,2025-04-17,Basic
+Pedro Miguel Martins,39,M,2025-04-26,
+Alexia da Mata,40,O,2024-10-08,Medium
+Miguel Ramos,40,F,2024-10-25,Vip
+Emanuel das Neves,69,M,2024-12-08,Vip
+Fernando Nogueira,50,O,2025-05-06,
+Sofia da Mota,45,F,2025-01-30,Vip
+Maitê Viana,45,O,2025-05-22,
+Cecília da Rosa,25,O,2025-02-12,Basic
+Dra. Daniela Farias,72,O,2024-09-01,Basic
+João Lucas Pires,39,M,2024-07-10,
+Sr. Augusto Pinto,28,F,2024-08-26,Basic
+Laís Oliveira,56,M,2024-12-24,Vip
+Maria Alice Moraes,34,M,2025-03-31,Vip
+Bryan Carvalho,55,F,2025-05-30,Basic
+Pedro Lucas Silveira,64,O,2024-06-10,
+Theo Gonçalves,24,F,2025-01-24,
+Eloah Almeida,36,F,2024-09-05,
+Lara Alves,71,M,2024-10-06,
+Maria Clara Porto,72,F,2024-12-07,Basic
+Levi da Mota,63,F,2025-06-06,
+Sra. Yasmin Melo,47,O,2025-05-14,Medium
+Pedro Lucas Castro,46,M,2025-05-03,Medium
+Luiza Nunes,74,F,2024-08-22,Medium
+Cecília Moreira,39,O,2025-05-06,
+Pedro Henrique Pereira,33,M,2025-05-22,Vip
+Júlia Jesus,55,F,2024-08-21,Basic
+Alexia Lima,37,F,2025-03-29,
+Leandro Aragão,45,M,2024-10-02,Basic
+Fernanda Souza,26,F,2025-01-12,
+Luiz Otávio Mendes,71,O,2025-04-27,
+Thales Mendes,61,F,2024-11-11,Vip
+Davi Lucca Azevedo,46,O,2025-03-26,
+Catarina Freitas,42,O,2024-08-31,Medium
+Sra. Julia Barbosa,23,O,2025-01-11,
+Sophia Novaes,21,O,2025-01-03,Medium
+Rafael Moraes,60,O,2024-12-07,Medium
+Ana Julia Correia,20,M,2025-05-07,Vip
+Pedro Miguel Pinto,26,M,2025-02-24,Basic
+Rafaela Lopes,59,M,2024-10-11,Medium
+Dra. Ana Sophia Araújo,57,O,2024-09-23,
+Nina Fernandes,36,O,2024-07-28,Vip
+Ana Laura Rodrigues,32,M,2025-01-13,Medium
+Carlos Eduardo da Mata,19,O,2024-08-17,Basic
+Ana Julia da Mata,30,F,2025-02-06,
+Sra. Caroline Costa,60,M,2024-11-06,
+Marcos Vinicius Rocha,25,M,2024-07-03,Vip
+Juan da Mota,46,O,2024-10-28,Vip
+Dr. Enzo Gabriel Rocha,72,M,2025-02-28,
+Ana Clara Barbosa,64,O,2025-02-15,
+Valentina Monteiro,58,M,2025-03-24,
+Davi Lucca Castro,65,F,2025-03-03,
+Benício Teixeira,53,O,2024-08-31,Vip
+Enrico Silveira,59,M,2024-08-15,
+Vitor Gabriel da Rocha,26,M,2024-07-16,Basic
+Rafaela Souza,54,M,2024-09-16,Basic
+Eduarda das Neves,64,O,2024-11-01,
+Benício da Luz,28,F,2024-07-30,Basic
+Bárbara Souza,46,O,2025-01-27,Medium
+Raquel Farias,49,F,2025-02-16,Basic
+Srta. Rafaela Lopes,18,O,2025-02-26,
+Renan Cardoso,69,M,2024-08-25,Medium
+Yasmin Freitas,54,F,2024-08-19,Medium
+Luiz Fernando Azevedo,25,M,2025-05-12,Vip
+Sra. Kamilly Monteiro,57,M,2025-01-01,Medium
+Heitor da Costa,64,M,2025-02-03,Vip
+Alice Freitas,34,F,2024-07-03,
+Vinicius Novaes,21,M,2024-07-07,Basic
+Yasmin Cardoso,48,O,2024-07-12,Basic
+Nina Cunha,62,M,2024-11-22,
+Lucas Cavalcanti,41,F,2024-08-25,Vip
+Anthony da Conceição,54,M,2024-06-21,
+Ana Carolina Lima,59,F,2025-02-14,Medium
+Diogo Aragão,22,M,2024-09-27,
+Danilo da Costa,38,M,2024-06-17,Vip
+Brenda Nogueira,61,F,2024-08-13,
+Carlos Eduardo Gonçalves,67,M,2025-05-13,Medium
+Fernando da Mota,30,F,2025-01-27,Basic
+Arthur Oliveira,25,M,2025-05-27,Basic
+Enzo Gabriel Costa,72,O,2024-06-17,Vip
+Caio Araújo,46,O,2024-08-01,Vip
+Mariane Moraes,75,O,2025-02-27,Vip
+Esther Azevedo,35,M,2024-06-24,Basic
+Maria Eduarda Martins,34,O,2024-10-30,
+Camila Rezende,47,O,2025-06-03,Basic
+Luiz Miguel Rodrigues,70,O,2024-07-14,Vip
+Olivia Nogueira,20,O,2024-07-11,Basic
+Sr. Bernardo da Rocha,61,M,2025-04-25,Vip
+Maysa Aragão,35,M,2024-12-08,
+Vinicius Pinto,50,F,2025-05-18,Vip
+Davi Freitas,75,O,2025-05-25,Medium
+Dr. Isaac da Rosa,67,O,2025-02-03,
+Helena Nunes,41,O,2024-12-06,Vip
+Enrico da Cunha,71,M,2024-08-21,Vip
+Dr. Calebe Teixeira,46,M,2025-02-09,Basic
+Diogo Carvalho,21,F,2024-09-24,Vip
+João Miguel da Conceição,26,O,2024-11-04,
+Cauê Jesus,54,M,2024-07-07,Basic
+Alana Ramos,33,O,2024-12-27,Vip
+Thales Fogaça,37,F,2025-06-05,Basic
+Marcela da Cunha,69,O,2025-03-25,Basic
+Dr. Pedro Lucas Viana,35,O,2025-06-02,Medium
+Emilly Almeida,50,O,2024-08-29,Medium
+Ryan Teixeira,34,M,2024-12-24,Medium
+Luigi Campos,57,O,2024-07-05,Medium
+Felipe Ferreira,27,O,2024-10-08,
+Maysa Nascimento,21,F,2024-12-19,Medium
+Isabel Campos,70,M,2025-02-17,
+Ana Beatriz das Neves,22,O,2025-06-04,
+Murilo Costela,69,M,2025-04-26,Vip
+Sr. Rodrigo Duarte,28,O,2024-07-29,Medium
+Clara Dias,25,M,2024-06-10,
+Ana Laura Correia,21,O,2025-02-21,Basic
+Sr. Pedro Henrique Nascimento,55,O,2024-08-18,Basic
+Mirella Moraes,54,O,2025-06-06,Medium
+Nina Moreira,40,F,2025-01-24,Medium
+Ana Luiza Vieira,37,M,2025-03-26,Vip
+Sr. Nathan Moraes,41,F,2024-07-29,
+Enrico Porto,39,O,2024-12-22,Vip
+Diogo Pires,23,O,2024-12-28,Vip
+Rebeca Rocha,37,F,2025-04-06,
+Marcelo da Luz,73,O,2025-02-24,Vip
+Leonardo Viana,34,O,2024-10-05,Vip
+Julia Ferreira,74,O,2024-08-18,Medium
+Maria Fernanda Moura,50,F,2024-10-28,
+Milena Pereira,46,M,2025-02-14,Vip
+Sarah Pires,49,O,2025-01-23,Medium
+Ana Sophia Viana,35,F,2025-05-30,
+Juan Campos,24,O,2024-11-18,Medium
+Pedro Henrique Nogueira,53,F,2025-03-13,Basic
+Marcelo Souza,31,M,2025-06-02,Vip
+Catarina Araújo,35,O,2024-07-13,
+Elisa Duarte,46,F,2024-08-04,
+Srta. Giovanna Cardoso,69,O,2025-04-18,Basic
+Sophie Martins,48,F,2025-02-15,Vip
+Evelyn Duarte,38,O,2024-08-10,Vip
+Alana Pereira,39,F,2024-07-06,Vip
+Raul Barros,45,O,2025-03-25,Vip
+Juan da Costa,68,O,2024-07-20,Vip
+Gabriela Rezende,43,M,2025-05-06,Vip
+Otávio Sales,72,M,2025-01-24,Vip
+Miguel da Mota,70,O,2024-09-15,Basic
+Vitor Gabriel Fogaça,54,O,2024-10-30,Basic
+Dra. Agatha Fernandes,37,F,2025-01-18,Medium
+Ian Ribeiro,62,F,2024-07-08,Vip
+João Pedro Campos,60,O,2024-07-15,
+Srta. Emanuella Moraes,37,M,2024-07-10,Vip
+Bryan Sales,66,M,2024-07-27,Medium
+Catarina Moreira,36,O,2024-08-05,Basic
+Enzo Gabriel Fogaça,29,M,2024-12-09,Basic
+Bianca Peixoto,36,O,2024-12-12,Basic
+Camila da Conceição,44,M,2024-08-02,
+Maria Luiza da Luz,44,M,2024-12-11,Vip
+Mariana da Mata,33,F,2024-08-19,Basic
+Murilo Barbosa,68,O,2024-12-12,Medium
+Bernardo Carvalho,33,M,2025-04-30,Medium
+Lorenzo Lopes,41,F,2025-03-26,Medium
+Dra. Natália Freitas,67,F,2025-01-22,
+Emanuel Barros,35,O,2024-12-02,Medium
+Carlos Eduardo Lima,52,M,2025-03-06,
+Cauê Rocha,21,M,2025-03-27,Medium
+Sr. Caio Freitas,23,F,2025-04-26,Vip
+Nathan Moraes,18,F,2025-05-27,Basic
+Beatriz da Mata,24,O,2025-03-22,
+Yuri Silva,68,M,2024-08-08,Vip
+Nicole Ramos,49,M,2025-01-22,
+Isabel Aragão,42,M,2025-01-12,Vip
+Rafaela Rezende,70,M,2024-06-13,Medium
+João Gabriel Correia,58,F,2025-01-23,
+Ana Carolina da Costa,61,O,2025-01-04,Medium
+Dr. Paulo Lopes,64,O,2024-06-16,Medium
+Stella Nunes,23,M,2025-04-21,
+Ana Laura Monteiro,70,F,2024-10-03,
+Vitor da Paz,51,F,2024-07-31,Vip
+Alana Cavalcanti,75,M,2025-01-31,Medium
+Ana Lívia Cavalcanti,58,O,2025-05-20,Basic
+Alana Nunes,31,M,2024-12-22,
+Murilo Caldeira,60,M,2025-05-25,Basic
+Sophie Farias,18,M,2025-01-22,Vip
+Kevin Freitas,62,O,2024-12-18,Vip
+João Felipe Moreira,38,F,2024-10-09,Medium
+Arthur Monteiro,64,O,2025-05-01,Vip
+Yasmin Dias,35,M,2024-11-02,
+Sr. Juan da Conceição,69,F,2024-07-07,Vip
+Mariana Costela,65,O,2024-11-15,Medium
+Srta. Lavínia Carvalho,26,F,2024-09-22,Vip
+Dra. Maria Luiza Farias,59,M,2024-09-25,Vip
+Srta. Sophie Dias,59,F,2024-08-11,Vip
+Yuri Fernandes,69,M,2024-10-18,Vip
+Sr. Cauã Ribeiro,26,M,2025-03-20,Vip
+Júlia Castro,65,M,2025-03-30,
+Lucca Cavalcanti,74,O,2024-10-17,Vip
+Helena Duarte,35,F,2025-01-01,Medium
+Yasmin Nascimento,47,O,2024-06-10,Vip
+Dr. Isaac Pires,22,F,2025-04-07,Medium
+Amanda Castro,37,M,2025-03-23,Medium
+Isabel Ferreira,35,O,2024-10-03,Basic
+Sr. João Guilherme Sales,30,O,2025-02-08,
+Thiago Moraes,49,M,2025-02-02,Basic
+Ana Carolina Cardoso,35,M,2024-11-10,
+Sr. Paulo Oliveira,57,M,2025-01-15,Medium
+Gustavo Moreira,40,F,2025-05-23,Vip
+Agatha Santos,39,O,2024-09-30,
+João Miguel Fernandes,34,O,2025-04-20,
+Sr. Francisco da Cunha,66,O,2025-03-20,
+Isabella Almeida,18,O,2024-10-01,
+Dr. Pedro Lucas Caldeira,37,M,2025-04-27,Vip
+Julia Silveira,29,M,2024-11-17,Vip
+Davi Fogaça,32,F,2025-04-20,
+Valentina Teixeira,66,O,2025-05-19,
+Maria Cecília Monteiro,33,F,2024-11-17,Basic
+Ian da Cruz,66,M,2024-08-14,Vip
+Srta. Ana Julia Gonçalves,45,F,2024-12-06,Vip
+Ana Beatriz Moreira,69,M,2024-07-02,Vip
+Clarice Souza,36,M,2024-06-26,Medium
+Milena Fernandes,32,O,2025-03-29,
+Davi Lucas Vieira,31,O,2024-09-24,Medium
+Elisa Gonçalves,31,F,2024-12-23,
+Nicole Teixeira,53,O,2025-03-23,
+Ana Julia Pinto,35,M,2025-04-16,
+Dr. João Miguel da Costa,72,M,2025-05-14,Medium
+Marcela da Conceição,64,F,2025-02-10,
+Laura Rocha,66,F,2025-04-27,Basic
+Olivia Freitas,65,M,2024-11-19,Medium
+Joaquim Azevedo,36,O,2024-12-17,Vip
+Alexandre das Neves,54,M,2024-09-24,Medium
+Enzo Gabriel Melo,40,M,2024-11-19,Medium
+Maria Cecília da Rocha,74,F,2024-11-13,Vip
+Cecília Caldeira,51,M,2025-03-23,Basic
+Ana Laura da Cruz,24,F,2024-09-11,Vip
+Bianca da Paz,32,F,2024-07-07,
+Bárbara Gomes,33,M,2024-10-17,Basic
+Raquel Cavalcanti,56,M,2024-10-17,Vip
+Isaac Moraes,33,M,2024-12-14,Medium
+Benício da Cruz,31,O,2025-03-31,
+Isabella Porto,35,M,2024-10-26,
+Kamilly Nogueira,62,M,2024-09-29,Vip
+Kevin Alves,34,F,2025-03-23,Vip
+Luna Rocha,74,F,2025-05-03,Medium
+Lucas Gabriel Barros,62,O,2024-10-03,Vip
+Daniel da Luz,48,F,2025-03-25,Medium
+Luana Araújo,34,M,2024-12-10,Medium
+Giovanna Freitas,50,O,2025-06-09,
+Davi Lucca Porto,40,O,2024-09-04,Vip
+Alícia Castro,19,O,2024-07-11,
+Dr. Bruno Fogaça,61,O,2025-02-03,Vip
+Vitória Castro,27,O,2025-06-08,
+Henrique Ramos,50,M,2024-08-08,
+Valentina Silva,65,F,2024-07-15,
+Gabriela Alves,36,M,2024-12-27,
+Luiz Fernando Costa,54,M,2024-09-08,Medium
+Fernanda Barbosa,21,O,2024-06-15,
+Fernando Ramos,47,O,2025-03-15,Basic
+Isaac Fogaça,39,M,2024-06-17,Vip
+Juan Rocha,50,F,2024-12-20,Vip
+Eloah Teixeira,25,O,2025-05-01,Vip
+Lívia Farias,42,O,2024-07-15,
+Luiz Henrique da Mata,31,M,2025-04-26,
+Guilherme Moraes,45,F,2025-05-16,
+Davi Lucas Peixoto,22,M,2024-06-13,
+Gustavo Pereira,50,M,2024-10-26,Basic
+Rafael Moraes,72,F,2024-10-30,Basic
+Laís da Cruz,47,M,2024-11-24,
+Ana Luiza Teixeira,64,M,2024-12-13,Basic
+Esther Moura,42,O,2024-12-21,
+Eduarda Costa,48,O,2025-04-12,Basic
+Thiago da Rosa,66,F,2024-06-18,
+Maria Julia Duarte,24,F,2025-05-05,
+Sr. Theo Gonçalves,55,O,2025-05-02,Basic
+Bruno Freitas,28,O,2025-05-11,Basic
+Thomas Silveira,54,F,2025-05-12,Basic
+Bianca Nascimento,50,M,2024-12-04,Basic
+Valentina Nogueira,33,O,2025-01-31,Basic
+Carlos Eduardo Ramos,24,M,2024-08-12,
+Kaique da Cunha,52,O,2025-05-10,Basic
+Isabel Fernandes,49,M,2024-11-07,
+Letícia Fernandes,43,M,2024-12-07,
+Emanuelly Castro,55,F,2024-09-16,
+Ana Beatriz Freitas,59,F,2024-08-06,Vip
+Sr. Danilo Fogaça,45,F,2025-04-19,
+Luiz Miguel Gonçalves,55,F,2024-12-10,
+Vitória Lopes,49,F,2024-10-25,
+Julia Pereira,58,F,2024-10-04,Medium
+Larissa Aragão,50,F,2025-01-08,Basic
+Sr. Benício Peixoto,44,O,2025-03-11,Vip
+Heitor Castro,65,M,2024-10-05,Medium
+Leandro Fernandes,47,O,2025-02-23,Vip
+Sr. Calebe Silva,66,M,2025-01-21,Medium
+Rafaela Sales,66,F,2025-03-24,Vip
+Camila Silva,51,F,2024-09-17,
+Nina Caldeira,63,O,2025-05-29,
+João Gabriel Gomes,72,M,2025-04-12,
+João Lucas Nogueira,22,O,2025-01-11,
+Diego Fogaça,72,F,2024-11-06,Vip
+Pedro Miguel Rodrigues,18,F,2024-08-03,
+Eduardo Campos,64,F,2024-08-17,Medium
+Raul Alves,67,O,2025-01-29,Basic
+Luiz Gustavo da Conceição,74,M,2024-10-23,
+Milena Souza,64,M,2024-09-25,Basic
+Ana Lívia Barbosa,26,M,2025-01-08,
+Dra. Emilly Correia,67,F,2025-04-02,Medium
+Raul Moraes,51,O,2025-04-18,Basic
+Dra. Maitê Campos,51,M,2024-11-03,Medium
+Amanda Vieira,70,O,2024-11-09,
+Vicente das Neves,67,O,2024-10-22,Medium
+Dr. Bryan da Mata,39,O,2024-09-08,Vip
+Ian Cavalcanti,23,M,2024-08-19,Vip
+Luana Castro,46,M,2025-03-08,Vip
+Beatriz da Cruz,44,M,2024-06-17,
+Yago Souza,64,O,2024-08-13,Basic
+Eduarda Fogaça,60,O,2024-10-25,Medium
+Lucas da Rocha,44,M,2024-12-22,Medium
+Vinicius Peixoto,54,M,2025-03-23,Medium
+Milena Pereira,36,M,2025-02-08,Basic
+Clara Aragão,41,M,2025-05-03,Basic
+Amanda Costela,56,M,2024-11-11,Vip
+Bianca Moreira,48,O,2024-11-15,Medium
+Milena Sales,48,O,2025-04-28,Basic
+Dr. Felipe Almeida,25,O,2024-08-31,Medium
+Srta. Olivia Sales,65,M,2025-01-09,Vip
+Enrico da Cunha,25,M,2025-02-07,
+Pietro Correia,63,F,2025-03-14,Basic
+Sarah Campos,44,M,2024-06-15,Medium
+Enzo Pinto,44,M,2025-02-07,Medium
+Rodrigo Campos,57,F,2025-05-15,Medium
+Juan Santos,46,M,2024-08-21,Basic
+Ana Júlia Barbosa,24,O,2024-10-08,
+Luiz Felipe Correia,40,O,2025-04-23,Vip
+Guilherme Farias,32,F,2025-03-23,Vip
+Murilo Moreira,55,M,2024-08-01,Vip
+Caroline Lima,35,F,2024-12-30,Vip
+Daniela Silva,29,M,2025-03-29,
+Eduardo Ramos,53,F,2024-10-24,Vip
+Srta. Larissa da Mata,27,F,2024-08-15,Vip
+Danilo Porto,65,M,2025-03-31,Basic
+Vitor Hugo Barros,22,O,2024-08-18,Medium
+Ana da Rocha,23,F,2024-11-11,Vip
+Davi Luiz da Conceição,45,M,2024-07-17,Basic
+Srta. Sophie Ferreira,74,M,2024-11-15,Medium
+Vicente Rocha,65,F,2024-09-14,Medium
+Yago Castro,71,M,2025-03-01,
+Diogo Dias,35,O,2024-12-14,
+Ana Carolina Alves,31,O,2024-09-08,Vip
+Dra. Emilly Pinto,20,F,2024-07-13,Basic
+Davi Luiz Rocha,52,F,2025-04-03,
+Maria Cardoso,50,F,2025-04-13,Basic
+Ryan das Neves,32,F,2025-02-19,Basic
+Thiago da Paz,59,F,2025-01-03,Medium
+Francisco Dias,41,O,2025-01-22,
+Alana Pinto,29,O,2024-10-20,
+Murilo Duarte,58,M,2025-05-18,Vip
+Bárbara da Costa,51,O,2024-07-10,
+Dr. Samuel Castro,73,O,2024-10-06,
+Cauê Silva,61,M,2025-06-03,Vip
+Eloah Correia,46,F,2024-06-11,Medium
+João Guilherme Oliveira,21,F,2024-12-01,
+Raquel Correia,27,F,2025-03-07,Basic
+Stella da Mata,47,O,2025-04-28,Medium
+Daniel Castro,26,M,2025-01-29,Basic
+Luiz Gustavo Nascimento,20,O,2024-07-11,Basic
+Anthony Melo,72,F,2024-07-09,Basic
+Ana Julia Pires,23,O,2024-12-28,Vip
+Lucas Azevedo,75,F,2024-12-31,Vip
+Daniel Nunes,51,F,2025-06-04,Vip
+Gustavo Henrique Caldeira,44,O,2024-08-12,
+Helena Rodrigues,35,F,2025-02-25,Basic
+Carolina da Cruz,53,O,2025-04-03,Basic
+Dr. Pedro Henrique Novaes,55,F,2024-08-12,
+Pedro Miguel Martins,67,F,2025-05-22,Basic
+Guilherme Moraes,52,M,2024-06-15,
+Isis Azevedo,68,F,2025-01-28,Basic
+João Pedro Martins,37,F,2024-09-14,Medium
+Cauã da Cruz,42,M,2025-04-19,Vip
+Davi Lucas da Mota,71,O,2025-05-07,
+Juliana Rocha,38,M,2024-09-22,Medium
+Maria Eduarda Novaes,36,O,2024-11-11,
+Mariane Rezende,55,O,2024-11-23,
+Sophia Sales,19,O,2024-07-06,
+Milena da Rosa,71,O,2024-06-19,Basic
+Ana das Neves,49,F,2024-10-30,Vip
+Enrico Campos,74,O,2025-03-19,Basic
+Dr. Luiz Otávio Martins,41,F,2025-03-08,Basic
+Dra. Gabriela Caldeira,39,F,2024-12-26,Medium
+Pietra Cunha,75,M,2024-08-07,Medium
+Francisco da Cunha,22,F,2024-07-12,
+Felipe da Costa,31,M,2025-03-30,Vip
+Amanda Pereira,72,M,2024-10-27,Vip
+Pedro Miguel Novaes,25,O,2025-02-16,
+Arthur Souza,50,M,2025-05-08,Medium
+Rebeca Rocha,68,M,2025-03-17,
+Dra. Juliana Peixoto,47,M,2024-07-24,Medium
+João Guilherme da Conceição,43,O,2024-09-14,Medium
+Caroline Cardoso,49,M,2024-10-20,Basic
+Isadora Duarte,33,M,2024-09-18,Basic
+Lavínia da Mata,35,F,2024-07-27,Medium
+Maitê da Conceição,47,O,2024-10-13,Basic
+Letícia Lima,47,O,2024-06-24,Basic
+Kevin Castro,29,O,2024-11-26,Vip
+Eduardo Moreira,57,M,2024-09-25,
+Clara Ribeiro,33,M,2024-09-16,Medium
+Laís Moraes,70,F,2025-05-04,
+Dra. Ana Beatriz Moura,27,F,2025-05-24,Vip
+Joana Almeida,29,F,2025-03-03,
+Maria Clara Duarte,59,F,2024-07-16,Basic
+Sr. Isaac Rezende,61,M,2024-06-20,Vip
+Juliana Almeida,69,M,2025-02-19,Basic
+Sr. Eduardo Moura,23,F,2025-03-19,Basic
+Sr. Diego Aragão,53,F,2024-09-23,
+Alexandre Pinto,27,O,2025-05-29,Medium
+Gabriela Fogaça,45,M,2024-11-05,Vip
+Clara Ribeiro,53,F,2025-04-15,
+Kevin Nogueira,27,M,2025-01-08,Basic
+Kamilly Peixoto,65,M,2025-05-07,Medium
+Sra. Ana Beatriz da Rosa,29,O,2025-03-29,Medium
+Milena Aragão,43,O,2024-11-08,Basic
+Sra. Laura Gomes,47,F,2024-08-02,
+Giovanna Pinto,48,M,2024-10-11,Medium
+Pedro Henrique Jesus,58,O,2024-12-31,Medium
+Alana Moreira,26,M,2025-03-19,
+Theo Teixeira,38,O,2024-12-16,Medium
+Olivia Melo,35,M,2024-06-14,Basic
+Rebeca da Costa,24,F,2024-08-21,
+Igor Araújo,69,O,2024-06-25,
+Dra. Luiza das Neves,46,O,2024-10-30,
+Dra. Eduarda Peixoto,74,F,2024-11-04,Vip
+Lorenzo Fogaça,31,O,2024-08-29,Basic
+Murilo Martins,33,O,2025-04-21,Basic
+Diogo da Rocha,19,F,2024-09-19,
+Maria Alice Aragão,71,F,2025-06-01,
+João Caldeira,59,O,2025-03-31,
+Daniela Sales,22,O,2024-08-14,Basic
+Levi Azevedo,71,M,2025-01-29,Vip
+Luiz Henrique Porto,43,O,2024-07-23,Basic
+Gustavo Viana,44,F,2024-09-20,Medium
+Caio Pinto,26,O,2025-05-13,Vip
+Raul Viana,67,F,2025-04-09,Medium
+Beatriz da Conceição,31,O,2024-10-24,Vip
+Luiza da Paz,24,F,2024-07-03,Medium
+Yuri Duarte,38,M,2024-12-18,Basic
+Davi Lucas Lopes,37,O,2024-06-09,Vip
+Maria Sophia Peixoto,30,M,2024-09-13,Vip
+Dr. Anthony Gomes,60,F,2024-07-18,
+Sr. João Duarte,54,F,2024-12-25,Medium
+Danilo Santos,46,M,2025-01-15,Vip
+Srta. Raquel Rezende,28,F,2025-01-12,
+Carlos Eduardo Viana,69,M,2024-12-16,Medium
+Enzo Gabriel Melo,47,F,2025-05-01,
+Carlos Eduardo Lopes,24,O,2024-10-22,Basic
+Dr. Diogo Cavalcanti,19,M,2024-09-03,Medium
+Isabelly Jesus,58,M,2025-01-11,Basic
+Isadora da Cunha,26,O,2025-05-28,Medium
+Augusto Alves,31,F,2025-04-20,
+Luigi Silveira,33,F,2024-07-25,Basic
+Samuel Rocha,73,F,2025-03-28,
+Nina Dias,27,O,2024-06-23,Vip
+Cauã Vieira,58,F,2024-07-23,
+Letícia Mendes,26,O,2024-08-29,
+Ana Lívia Mendes,57,M,2025-04-20,Medium
+Rafaela da Rosa,63,F,2025-05-20,Vip
+Kevin Oliveira,39,M,2024-06-19,Basic
+Nicolas Alves,31,F,2024-12-06,Basic
+Juan Moreira,51,M,2025-04-09,Vip
+Raul Azevedo,20,F,2024-08-18,Medium
+Sra. Bárbara Farias,34,F,2024-10-05,Vip
+Igor da Cruz,43,F,2025-04-22,
+Luana Gonçalves,51,F,2025-01-22,
+Sarah Novaes,48,F,2024-10-12,Vip
+Srta. Ana Luiza Ribeiro,60,F,2025-01-30,Medium
+Ana Julia Santos,35,F,2024-09-15,Vip
+Vinicius da Paz,27,O,2024-07-19,
+Sra. Alice Mendes,36,O,2025-04-18,
+Lucas Gabriel Gomes,69,M,2025-03-29,Medium
+Lívia da Paz,64,M,2025-04-07,Basic
+João da Rosa,64,O,2024-08-07,Basic
+Carlos Eduardo Jesus,19,O,2025-01-10,
+Kaique Alves,64,F,2024-10-30,
+Isabella Rezende,66,M,2025-02-15,Vip
+Murilo Aragão,26,O,2024-08-27,
+Mariane Farias,59,M,2025-05-20,
+Sofia da Costa,47,F,2024-10-26,Vip
+Dr. Gustavo Henrique Dias,59,M,2024-12-14,Medium
+Benício Nascimento,26,O,2025-03-24,Medium
+Lívia Dias,67,M,2025-02-17,
+Dra. Maria Fernanda da Rosa,22,O,2024-09-19,
+Sra. Lara da Cunha,66,F,2025-01-12,Vip
+Antônio Silva,60,O,2024-07-08,Basic
+Sr. Heitor Campos,56,F,2024-10-21,
+Yasmin Freitas,54,O,2024-10-05,Medium
+Sr. Erick Silveira,54,F,2024-12-27,
+Daniel Costa,45,F,2025-01-15,Vip
+Rodrigo Castro,48,O,2025-02-15,
+Dra. Alice Lima,18,O,2024-07-05,Medium
+Enzo Gabriel Teixeira,47,M,2025-03-23,
+Ana Clara Pires,65,O,2024-06-13,
+Thiago Pires,34,F,2025-04-25,Basic
+Maria Alice Rodrigues,54,F,2024-07-21,Medium
+Lucca da Paz,68,F,2024-10-03,Basic
+Dra. Maitê Pires,31,O,2024-08-29,Vip
+Sr. Lucca Cardoso,56,M,2024-09-10,Basic
+Sr. Gabriel Peixoto,54,O,2025-01-10,Basic
+Dr. Anthony Jesus,40,F,2024-12-01,Medium
+Ana Fernandes,55,O,2025-03-05,Basic
+Bianca Silveira,72,O,2025-05-08,
+Ana Lívia Nascimento,53,M,2025-03-31,Vip
+Bernardo da Mata,62,O,2025-05-07,Vip
+Maria Eduarda Moura,32,O,2024-09-05,
+Gustavo Henrique Azevedo,19,O,2025-02-28,
+Maria Julia Novaes,35,O,2024-08-31,Vip
+Melissa Pereira,73,O,2024-07-29,Basic
+Maria Alice Teixeira,56,F,2025-03-08,Basic
+Srta. Clarice Melo,20,M,2025-01-12,Basic
+Bryan Costa,59,M,2025-04-22,Medium
+Olivia Moreira,48,F,2024-06-12,Vip
+Sr. João Lucas da Mota,57,F,2025-01-14,
+Dr. Noah da Luz,26,O,2025-05-23,
+Emanuel Nogueira,70,O,2024-07-01,Medium
+Catarina Barros,28,M,2024-07-12,
+Leandro Lopes,60,M,2025-01-05,Vip
+Letícia Gomes,29,F,2024-10-07,
+Ana Luiza Fernandes,37,M,2024-06-26,Basic
+Rafaela Pires,65,F,2024-08-22,Basic
+Maria Clara da Cunha,41,F,2024-12-13,Medium
+Kamilly Lima,48,O,2024-11-26,
+Eloah Monteiro,26,M,2024-12-20,Basic
+Agatha Cardoso,49,M,2024-10-17,
+Luana Barbosa,57,M,2024-09-12,Basic
+Srta. Natália Moraes,57,F,2025-01-01,Medium
+Luiz Fernando Gomes,18,M,2024-07-17,
+Luna da Cunha,70,O,2025-04-23,Medium
+Sr. Ian Almeida,75,F,2024-06-19,
+Sra. Sabrina Lopes,27,M,2024-12-26,Vip
+Srta. Maria Vitória Monteiro,31,F,2024-08-27,
+Davi Luiz Duarte,64,O,2025-05-11,Medium
+Luiz Henrique Cardoso,69,M,2024-11-04,
+Alícia Rodrigues,20,O,2024-11-21,Vip
+Manuela Correia,25,F,2024-09-06,Basic
+Gabriel Araújo,32,O,2024-10-22,Medium
+Helena Souza,27,O,2025-05-04,
+Sophia Aragão,22,O,2025-05-05,Vip
+Enzo Gabriel Caldeira,75,M,2024-07-31,
+Guilherme Rodrigues,55,O,2024-11-09,Medium
+Pietra Martins,36,M,2024-12-24,Medium
+Srta. Luana Pereira,55,M,2024-11-04,Medium
+Cauã Porto,21,M,2024-11-15,
+Benjamin da Luz,24,O,2024-11-28,Medium
+Natália Mendes,72,M,2025-01-24,
+Maria Eduarda da Cunha,73,M,2024-10-02,Medium
+Camila Souza,64,F,2025-04-15,Basic
+Vitor Gabriel Almeida,50,M,2025-04-07,Basic
+Sr. Davi Luiz Pereira,65,F,2024-10-14,Basic
+Yago da Luz,74,M,2024-08-21,Medium
+Srta. Ana Clara Souza,64,F,2025-05-31,Vip
+Thiago Rodrigues,33,M,2024-10-19,Medium
+Caio Cardoso,44,O,2025-02-05,Vip
+Sra. Maria Clara Rodrigues,37,M,2024-07-09,Basic
+João Gabriel Vieira,56,O,2024-12-26,
+Srta. Manuela Duarte,26,M,2025-03-29,
+Pedro Lucas Melo,35,M,2025-06-01,Medium
+Isadora da Cruz,59,M,2024-10-23,Medium
+Diego Correia,72,O,2024-09-21,
+Anthony da Paz,27,O,2024-10-20,Medium
+Sra. Ana Clara Carvalho,73,M,2024-06-21,Basic
+Isaac Moura,54,M,2024-07-28,Basic
+Ana Sophia Santos,45,M,2025-01-01,Basic
+Sr. Juan Martins,65,M,2024-11-13,
+João Alves,52,M,2025-04-14,Medium
+Luana Costa,55,F,2024-06-12,Vip
+Davi Lucca Oliveira,18,M,2025-02-09,
+Caio Lopes,52,M,2024-09-14,Basic
+Srta. Júlia Nascimento,53,F,2024-09-11,Medium
+Helena Cardoso,60,F,2025-05-16,Medium
+Maria Luiza Silveira,22,O,2024-12-16,
+Maria Clara Gomes,65,O,2024-12-16,Medium
+Juan Barbosa,28,O,2024-12-25,Vip
+Sr. Guilherme Pinto,38,M,2025-03-21,Basic
+Emanuella Novaes,75,F,2025-03-31,
+João Felipe Souza,32,M,2025-04-01,Vip
+Breno Barbosa,40,F,2025-04-26,Basic
+Henrique Moraes,44,O,2024-10-28,
+Amanda Pereira,67,O,2024-06-23,Vip
+Gabrielly Caldeira,42,F,2024-09-08,
+Emanuel Ribeiro,53,M,2024-10-05,Basic
+Paulo da Mota,70,F,2025-04-18,Medium
+Rebeca Correia,63,M,2024-11-30,Basic
+Maria Luiza Monteiro,61,F,2024-07-05,
+João Felipe Moraes,66,M,2024-06-29,Basic
+Raul Campos,55,O,2024-06-15,Vip
+Dra. Nina Nunes,44,F,2025-01-22,Basic
+Mariana Ferreira,33,O,2024-06-17,Medium
+Manuela Novaes,61,F,2025-02-01,Medium
+Breno Oliveira,73,M,2024-08-04,Medium
+Alexia Melo,51,O,2025-03-22,Medium
+Lorenzo Monteiro,45,F,2025-02-08,Vip
+Natália Novaes,46,F,2025-01-25,Vip
+Noah Nunes,26,F,2025-05-12,
+João Guilherme Barbosa,49,F,2024-10-24,Medium
+Nathan Rocha,40,F,2024-10-30,
+Ana Clara da Cruz,54,F,2024-11-23,Basic
+Luiz Felipe Costa,25,M,2024-07-23,Vip
+Pietra Fernandes,59,M,2025-04-24,
+Srta. Juliana Jesus,27,F,2025-02-25,Vip
+João Pedro Peixoto,75,F,2025-04-07,
+Vicente Carvalho,42,F,2024-09-13,Medium
+Davi Lucas da Paz,63,O,2025-02-03,
+Erick Azevedo,58,M,2025-01-14,
+Felipe Mendes,26,O,2025-04-27,
+Vitória Moura,30,M,2025-05-15,
+Nathan da Rosa,30,M,2025-04-29,Medium
+Ana Júlia Moraes,30,M,2024-08-09,
+Stella Caldeira,39,O,2025-01-07,
+Gabrielly Gomes,27,M,2024-10-18,Basic
+Alexandre da Rocha,32,M,2024-07-14,Basic
