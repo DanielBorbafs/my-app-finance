@@ -4,7 +4,6 @@ GO
 USE MARKETPLUS;
 GO
 
-
 CREATE TABLE customers (
     customer_id int primary key IDENTITY(1,1),
     name varchar(40) NOT NULL,
@@ -26,7 +25,6 @@ CREATE TABLE products(
 );
 GO
 
-
 CREATE TABLE orders (
     order_id int primary key IDENTITY(1,1), 
     customer_id int NOT NULL,
@@ -46,7 +44,6 @@ CREATE TABLE orders (
 );
 GO
 
-
 CREATE TABLE reviews(
     review_id int primary key IDENTITY(1,1),
     order_id int NOT NULL,
@@ -57,6 +54,7 @@ CREATE TABLE reviews(
     FOREIGN KEY (order_id) REFERENCES orders(order_id)
 );
 GO
+
 
 
 CREATE INDEX idx_orders_customer ON orders(customer_id);

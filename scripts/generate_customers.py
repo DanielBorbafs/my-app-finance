@@ -2,8 +2,6 @@ import csv
 from faker import Faker
 from datetime import datetime, timedelta
 import random
-
-
 """Table customers {
   customer_id integer pk
   name varchar(40)
@@ -12,8 +10,9 @@ import random
   registration_date date
   segment varchar(20)
 }"""
-# Configuração
-fake = Faker('pt_BR')  # Português Brasil
+
+
+fake = Faker('pt_BR')  
 NUM_ROWS = 1000
 OUTPUT_FILE = './data/customers_data.csv'
 
